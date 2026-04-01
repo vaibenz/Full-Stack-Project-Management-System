@@ -91,10 +91,6 @@ npm start
 * UI enhancements
 * Deployment (Docker / Cloud)
 
-git add README.md
-git commit -m "Added project README"
-git push
-
 ---
 
 ## Author
