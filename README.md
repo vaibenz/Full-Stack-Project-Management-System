@@ -95,4 +95,4 @@ npm start
 
 ## Author
 
-Your Name
+Vaibhav
