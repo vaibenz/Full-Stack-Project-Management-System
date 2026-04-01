@@ -1,13 +1,13 @@
 # Full-Stack Project Management System (Mini Jira)
 
-## 🚀 Overview
+## Overview
 
 This is a full-stack web application that allows users to manage projects and tasks.
 It demonstrates backend development using Spring Boot, frontend development using React, and integration through RESTful APIs.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Backend: Java, Spring Boot
 * ORM: JPA / Hibernate
@@ -19,7 +19,7 @@ It demonstrates backend development using Spring Boot, frontend development usin
 
 ---
 
-## ✨ Features
+## Features
 
 * Create and manage projects
 * Create, update, and delete tasks
@@ -29,7 +29,7 @@ It demonstrates backend development using Spring Boot, frontend development usin
 
 ---
 
-## 🧱 System Architecture
+## System Architecture
 
 * Controller Layer → Handles API requests
 * Service Layer → Business logic
@@ -38,7 +38,7 @@ It demonstrates backend development using Spring Boot, frontend development usin
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Projects
 
@@ -54,7 +54,7 @@ It demonstrates backend development using Spring Boot, frontend development usin
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### Backend
 
@@ -73,7 +73,7 @@ npm start
 
 ---
 
-## 🎯 What This Project Demonstrates
+## What This Project Demonstrates
 
 * Building RESTful APIs with Spring Boot
 * Database integration using JPA/Hibernate
@@ -84,7 +84,7 @@ npm start
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * User authentication (JWT)
 * Role-based access control
@@ -93,6 +93,6 @@ npm start
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Your Name
